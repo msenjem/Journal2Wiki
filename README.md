@@ -1,3 +1,3 @@
-# Article2Wiki
+# Journal2Wiki
 
 Welcome!
